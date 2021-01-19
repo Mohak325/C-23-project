@@ -1,9 +1,7 @@
 var helicopterIMG, helicopter, packageSprite,packageIMG;
 var packageBody,ground
-var gameState;
-var PLAY = 0;
-var END = 1;
-gameState = PLAY; 
+
+
 
 const Engine = Matter.Engine;
 const World = Matter.World;
